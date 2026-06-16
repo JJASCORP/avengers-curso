@@ -16,4 +16,3 @@
 * Thor
 * Vision
 * Wasp
-* capitan america
